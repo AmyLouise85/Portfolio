@@ -1,0 +1,127 @@
+#page1 h3 {
+  font-family: lobster;
+  letter-spacing: 0.2em;
+  text-align: center;
+  margin-top: 500px;
+}
+#page1 .smaller-image {
+  background-image: image(bubble.jpg);
+  width: 1000px;
+  margin-top: 15px;
+}
+#page1 div h3 {
+  background-color: GhostWhite;
+  height: 40px;
+  width: 600px;
+  color: black;
+  border-color: black ;
+  border-width: 1px;
+  border-style: dashed;
+  padding: 20px 0px 15px 0px;
+  margin-top: 40px;
+  margin-left: 350px;
+  margin-right: 150px;
+  margin-bottom: 325px;
+}
+
+#page1 footer {
+  font-family: lobster;
+  letter-spacing: 0.2em;
+  text-align: left;
+  color: grey;
+  font-size: 12px;
+  margin-top: 275px;
+}
+a:link {
+    color: grey;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: hotpink;
+}
+
+.smaller-image {
+  background-image: image(bubble.jpg);
+  width: 350px;
+  margin-top: 15px;
+}
+
+#social {
+  margin: auto;
+  margin-top: 30px;
+  width:200px;
+  display:block;
+  float:right;
+}
+body{
+  font-size: 16px;
+  font-family: courier, monospace;
+}
+nav {
+  background-color: GhostWhite;
+  font-family: courier, monospace;
+  text-align: center;
+  font-size: 15px;
+  height: 20px;
+  width: auto;
+  padding: 5px;
+  border: 2px solid;
+}
+nav .active {
+  color: hotpink;
+}
+#img {
+  float:right;
+  border-radius: 50%;
+}
+
+#social {
+  margin: auto;
+  margin-top: 30px;
+  width:200px;
+  display:block;
+  float:right;
+}
+
+#social {
+  margin: auto;
+  margin-top: 30px;
+  width:200px;
+  display:block;
+  float:right;
+}
+
+#social {
+  margin: auto;
+  margin-top: 30px;
+  width:200px;
+  display:block;
+  float:right;
+}
+
+/* these are things relating to the home page */
+.HomeThing {
+  position: relative;
+  background-color: #ffd9cf;
+  height: 400px;
+  margin: 50px;
+  padding: 25px;
+
+}
+#contact .HomeThing,
+#examples .HomeThing,
+#pastexp .HomeThing {
+  height: auto;
+}
+.RoundImage {
+  float:right;
+}
+
+.Body {
+  width: calc(100% - 500px);
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
