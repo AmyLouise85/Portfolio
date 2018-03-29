@@ -1,3 +1,23 @@
+Quick portfilio site, uing HTML& CSS. 'Landing' is the index.html file.. don't askwhy it isnt! :D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Social circles
 ==============
 
