@@ -1,4 +1,4 @@
-Quick portfilio site, uing HTML& CSS. 'Landing' is the index.html file.. don't askwhy it isnt! :D
+Quick portfilio site, uing HTML& CSS. 'Landing' is the index.html file.. don't ask why it isnt! :D
 
 
 
